@@ -6,7 +6,7 @@
 ## Installing the git repo
 
 ```
-git clone https://github.com/Olliecad1/Lightning_RaspberryPi_Setup
+git clone https://github.com/Groestlcoin/Lightning_RaspberryPi_Setup
 ```
 
 # Step 2
@@ -22,7 +22,7 @@ cd Lightning_RaspberryPi_Setup/
 ## Execute the bash script
 
 ```
-sudo chmod +x ./Bitcoin_Rpi_Lightning.sh
+sudo chmod +x ./Groestlcoin_Rpi_Lightning.sh
 ```
 
 # Step 4
@@ -30,5 +30,5 @@ sudo chmod +x ./Bitcoin_Rpi_Lightning.sh
 ## Run the bash script
 
  ```
- ./Bitcoin_Rpi_Lightning.sh
+ ./Groestlcoin_Rpi_Lightning.sh
  ```
